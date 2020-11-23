@@ -1,0 +1,3 @@
+{ "_id" : null, "value" : { "height" : NaN, "weight" : NaN } }
+{ "_id" : "Female", "value" : { "height" : 166.81260913705572, "weight" : 70.11331573604069 } }
+{ "_id" : "Male", "value" : { "height" : 166.737482828283, "weight" : 70.01127878787881 } }

@@ -1,0 +1,371 @@
+MongoDB shell version v4.4.1
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("895ec927-2531-4c82-922a-234864167ef9") }
+MongoDB server version: 4.4.1
+[
+	{
+		"_id" : "MMK",
+		"Suma srodkow" : 4629.42,
+		"Srednia srodkow" : 4629.42
+	},
+	{
+		"_id" : "DOP",
+		"Suma srodkow" : 20674.739999999998,
+		"Srednia srodkow" : 5168.6849999999995
+	},
+	{
+		"_id" : "BGN",
+		"Suma srodkow" : 21200.88,
+		"Srednia srodkow" : 5300.22
+	},
+	{
+		"_id" : "XPF",
+		"Suma srodkow" : 4759.07,
+		"Srednia srodkow" : 4759.07
+	},
+	{
+		"_id" : "RUB",
+		"Suma srodkow" : 119749.15,
+		"Srednia srodkow" : 4989.547916666666
+	},
+	{
+		"_id" : "TZS",
+		"Suma srodkow" : 7052.370000000001,
+		"Srednia srodkow" : 3526.1850000000004
+	},
+	{
+		"_id" : "ILS",
+		"Suma srodkow" : 16295.49,
+		"Srednia srodkow" : 5431.83
+	},
+	{
+		"_id" : "CAD",
+		"Suma srodkow" : 58375.6,
+		"Srednia srodkow" : 5306.872727272727
+	},
+	{
+		"_id" : "MGA",
+		"Suma srodkow" : 14560.99,
+		"Srednia srodkow" : 4853.663333333333
+	},
+	{
+		"_id" : "YER",
+		"Suma srodkow" : 13712.5,
+		"Srednia srodkow" : 4570.833333333333
+	},
+	{
+		"_id" : "KYD",
+		"Suma srodkow" : 3760.89,
+		"Srednia srodkow" : 3760.89
+	},
+	{
+		"_id" : "VEF",
+		"Suma srodkow" : 8333.28,
+		"Srednia srodkow" : 4166.64
+	},
+	{
+		"_id" : "CLP",
+		"Suma srodkow" : 21008.95,
+		"Srednia srodkow" : 5252.2375
+	},
+	{
+		"_id" : "VUV",
+		"Suma srodkow" : 6418.27,
+		"Srednia srodkow" : 6418.27
+	},
+	{
+		"_id" : "MXN",
+		"Suma srodkow" : 50229,
+		"Srednia srodkow" : 5022.9
+	},
+	{
+		"_id" : "MAD",
+		"Suma srodkow" : 3818.85,
+		"Srednia srodkow" : 3818.85
+	},
+	{
+		"_id" : "GBP",
+		"Suma srodkow" : 6149.19,
+		"Srednia srodkow" : 6149.19
+	},
+	{
+		"_id" : "ARS",
+		"Suma srodkow" : 23242,
+		"Srednia srodkow" : 4648.4
+	},
+	{
+		"_id" : "GTQ",
+		"Suma srodkow" : 5806.3,
+		"Srednia srodkow" : 5806.3
+	},
+	{
+		"_id" : "PYG",
+		"Suma srodkow" : 4874.69,
+		"Srednia srodkow" : 4874.69
+	},
+	{
+		"_id" : "ZMW",
+		"Suma srodkow" : 5569.56,
+		"Srednia srodkow" : 5569.56
+	},
+	{
+		"_id" : "XAF",
+		"Suma srodkow" : 14094.66,
+		"Srednia srodkow" : 4698.22
+	},
+	{
+		"_id" : "HNL",
+		"Suma srodkow" : 16514.59,
+		"Srednia srodkow" : 5504.863333333334
+	},
+	{
+		"_id" : "UZS",
+		"Suma srodkow" : 3573.03,
+		"Srednia srodkow" : 3573.03
+	},
+	{
+		"_id" : "CUP",
+		"Suma srodkow" : 15017.34,
+		"Srednia srodkow" : 5005.78
+	},
+	{
+		"_id" : "XOF",
+		"Suma srodkow" : 17882.05,
+		"Srednia srodkow" : 5960.683333333333
+	},
+	{
+		"_id" : "HRK",
+		"Suma srodkow" : 24354.82,
+		"Srednia srodkow" : 4870.964
+	},
+	{
+		"_id" : "PEN",
+		"Suma srodkow" : 18644.94,
+		"Srednia srodkow" : 4661.235
+	},
+	{
+		"_id" : "PKR",
+		"Suma srodkow" : 18938,
+		"Srednia srodkow" : 4734.5
+	},
+	{
+		"_id" : "KRW",
+		"Suma srodkow" : 13379.82,
+		"Srednia srodkow" : 6689.91
+	},
+	{
+		"_id" : "LYD",
+		"Suma srodkow" : 8764.99,
+		"Srednia srodkow" : 4382.495
+	},
+	{
+		"_id" : "BWP",
+		"Suma srodkow" : 4076.29,
+		"Srednia srodkow" : 4076.29
+	},
+	{
+		"_id" : "ETB",
+		"Suma srodkow" : 5436.11,
+		"Srednia srodkow" : 5436.11
+	},
+	{
+		"_id" : "ISK",
+		"Suma srodkow" : 4316.41,
+		"Srednia srodkow" : 4316.41
+	},
+	{
+		"_id" : "BOB",
+		"Suma srodkow" : 5263.3,
+		"Srednia srodkow" : 5263.3
+	},
+	{
+		"_id" : "CDF",
+		"Suma srodkow" : 12228.8,
+		"Srednia srodkow" : 6114.4
+	},
+	{
+		"_id" : "NPR",
+		"Suma srodkow" : 5792.26,
+		"Srednia srodkow" : 5792.26
+	},
+	{
+		"_id" : "PHP",
+		"Suma srodkow" : 118606.28,
+		"Srednia srodkow" : 4941.928333333333
+	},
+	{
+		"_id" : "AMD",
+		"Suma srodkow" : 24609.33,
+		"Srednia srodkow" : 4921.866
+	},
+	{
+		"_id" : "IRR",
+		"Suma srodkow" : 26504.239999999998,
+		"Srednia srodkow" : 4417.373333333333
+	},
+	{
+		"_id" : "CNY",
+		"Suma srodkow" : 470700.38,
+		"Srednia srodkow" : 4954.740842105263
+	},
+	{
+		"_id" : "SEK",
+		"Suma srodkow" : 70840.19,
+		"Srednia srodkow" : 5060.013571428572
+	},
+	{
+		"_id" : "MYR",
+		"Suma srodkow" : 4781.12,
+		"Srednia srodkow" : 4781.12
+	},
+	{
+		"_id" : "THB",
+		"Suma srodkow" : 23021.96,
+		"Srednia srodkow" : 4604.392
+	},
+	{
+		"_id" : "KZT",
+		"Suma srodkow" : 3788.95,
+		"Srednia srodkow" : 3788.95
+	},
+	{
+		"_id" : "COP",
+		"Suma srodkow" : 19746.73,
+		"Srednia srodkow" : 4936.6825
+	},
+	{
+		"_id" : "PLN",
+		"Suma srodkow" : 90770.78,
+		"Srednia srodkow" : 5042.821111111111
+	},
+	{
+		"_id" : "CZK",
+		"Suma srodkow" : 37156.42,
+		"Srednia srodkow" : 4644.5525
+	},
+	{
+		"_id" : "JPY",
+		"Suma srodkow" : 60944.74,
+		"Srednia srodkow" : 5078.7283333333335
+	},
+	{
+		"_id" : "NIO",
+		"Suma srodkow" : 9971.28,
+		"Srednia srodkow" : 4985.64
+	},
+	{
+		"_id" : "BRL",
+		"Suma srodkow" : 49632.020000000004,
+		"Srednia srodkow" : 4512.001818181819
+	},
+	{
+		"_id" : "BYR",
+		"Suma srodkow" : 5095.79,
+		"Srednia srodkow" : 5095.79
+	},
+	{
+		"_id" : "MWK",
+		"Suma srodkow" : 3574.42,
+		"Srednia srodkow" : 3574.42
+	},
+	{
+		"_id" : "NGN",
+		"Suma srodkow" : 24946.23,
+		"Srednia srodkow" : 4157.705
+	},
+	{
+		"_id" : "ZWL",
+		"Suma srodkow" : 5792.17,
+		"Srednia srodkow" : 5792.17
+	},
+	{
+		"_id" : "ALL",
+		"Suma srodkow" : 3325.48,
+		"Srednia srodkow" : 3325.48
+	},
+	{
+		"_id" : "EGP",
+		"Suma srodkow" : 5579.3,
+		"Srednia srodkow" : 5579.3
+	},
+	{
+		"_id" : "RSD",
+		"Suma srodkow" : 4276.56,
+		"Srednia srodkow" : 4276.56
+	},
+	{
+		"_id" : "MNT",
+		"Suma srodkow" : 21715.61,
+		"Srednia srodkow" : 5428.9025
+	},
+	{
+		"_id" : "AFN",
+		"Suma srodkow" : 16755.49,
+		"Srednia srodkow" : 5585.163333333334
+	},
+	{
+		"_id" : "USD",
+		"Suma srodkow" : 74680.98,
+		"Srednia srodkow" : 4978.732
+	},
+	{
+		"_id" : "IDR",
+		"Suma srodkow" : 323922.59,
+		"Srednia srodkow" : 4907.918030303031
+	},
+	{
+		"_id" : "EUR",
+		"Suma srodkow" : 245091.47,
+		"Srednia srodkow" : 4901.8294
+	},
+	{
+		"_id" : "ZAR",
+		"Suma srodkow" : 11790.92,
+		"Srednia srodkow" : 3930.306666666667
+	},
+	{
+		"_id" : "SRD",
+		"Suma srodkow" : 5286.68,
+		"Srednia srodkow" : 5286.68
+	},
+	{
+		"_id" : "NOK",
+		"Suma srodkow" : 4773.66,
+		"Srednia srodkow" : 4773.66
+	},
+	{
+		"_id" : "IQD",
+		"Suma srodkow" : 4269.39,
+		"Srednia srodkow" : 4269.39
+	},
+	{
+		"_id" : "MKD",
+		"Suma srodkow" : 3835.05,
+		"Srednia srodkow" : 3835.05
+	},
+	{
+		"_id" : "RWF",
+		"Suma srodkow" : 4632.88,
+		"Srednia srodkow" : 4632.88
+	},
+	{
+		"_id" : "UAH",
+		"Suma srodkow" : 40471.840000000004,
+		"Srednia srodkow" : 5058.9800000000005
+	},
+	{
+		"_id" : "NZD",
+		"Suma srodkow" : 5328.46,
+		"Srednia srodkow" : 5328.46
+	},
+	{
+		"_id" : "VND",
+		"Suma srodkow" : 36160.26,
+		"Srednia srodkow" : 4520.0325
+	},
+	{
+		"_id" : "TJS",
+		"Suma srodkow" : 4087.71,
+		"Srednia srodkow" : 4087.71
+	}
+]
